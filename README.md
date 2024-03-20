@@ -4,5 +4,5 @@
 
 # Foi elaborado métodos na classe Pessoa para:
 - Adicionar contato principal
-- Adicionar contatos secundários, mas cada não pode ter contatos com descrições iguais
+- Adicionar contatos secundários, mas não pode ter contatos com descrições iguais
 - Remover contato por descrição
